@@ -1,0 +1,7 @@
+/node_modules
+/.prettierrc.json
+/package-lock.json
+/package.json
+/tailwind.config.json
+/yarn.lock
+/.eslintrc.json
